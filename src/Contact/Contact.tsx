@@ -9,17 +9,16 @@ const [formData, setFormData] = useState({
     message: ''
   });
 
-const handleChange = (event) => {
+const handleChange = (event: { target: { name: any; value: any; }; }) => {
     const { name, value } = event.target;
     setFormData({
       ...formData,
       [name]: value
     });
   };
-  const handleSubmit = (event) => {
+  const handleSubmit = (event: { preventDefault: () => void; }) => {
     event.preventDefault();
     console.log('Form Data Submitted:', formData);
-    // Vous pouvez ajouter ici la logique pour envoyer les données à un serveur, par exemple avec fetch ou axios.
   };
 
   return (
