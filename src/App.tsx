@@ -4,7 +4,6 @@ import Title from './Title/Title'
 import NavBarre from './NavBarre/NavBarre'
 import Work from './Work/Work'
 import Contact from './Contact/Contact'
-import { Analytics } from "@vercel/analytics/react"
 
 
 function App() {
