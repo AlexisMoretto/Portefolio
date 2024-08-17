@@ -16,8 +16,17 @@ function Experience  (){
                     <li>Programmation Orientée Objet</li>
                     <li>React dans le détail</li>
                 </ul> 
-                </div>      
+                </div>     
             </div>
+            <div className="logo">
+                    <img src="src\assets\redux.svg" alt="" />
+                    <img src="src\assets\react-2.svg" alt="" />
+                    <img src="src\assets\new-php-logo.png" alt="" />
+                    <img src="src\assets\mysql-3.svg" alt="" />
+                    <img src="src\assets\typescript.svg" alt="" />
+                    <img src="src\assets\html-1.svg" alt="" />
+                    <img src="src\assets\css-3.svg" alt="" />
+                </div> 
             <div className="skills">
                     <h2>Compétences Acquises</h2>
                     <ul>
