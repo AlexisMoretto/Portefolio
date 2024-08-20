@@ -50,7 +50,7 @@ function Work() {
           <div ref={meteoRef} className='imageShowedMeteo'>
             {isOpen && (
               <div className='allCardShowed'>
-                <p><img className='meteo' src="public/assets/resultat.png" alt="" /></p>
+                <p><img className='meteo' src="assets/resultat.png" alt="" /></p>
                 <div className='textCard'>
                   <h3>Technologie Utilisé</h3>
                   <ul>
@@ -79,7 +79,7 @@ function Work() {
           <div ref={orecipeRef} className='imageShowedOrecipe'>
             {isOpen2 && (
               <div className='allCardShowed'>
-                <p><img className='orecipe' src="public/assets/resultatOreceip.gif" alt="" /></p>
+                <p><img className='orecipe' src="assets/resultatOreceip.gif" alt="" /></p>
                 <div className='textCard'>
                   <h3>Technologie Utilisé</h3>
                   <ul>
@@ -109,7 +109,7 @@ function Work() {
           <div ref={associeRef} className='imageShowedAssocie'>
             {isOpen3 && (
               <div className='allCardShowed'>
-                <p><img className='associe' src="public/assets/Associé.png" alt="" /></p>
+                <p><img className='associe' src="assets/Associé.png" alt="" /></p>
                 <div className='textCard'>
                   <h3>Technologie Utilisé</h3>
                   <ul>

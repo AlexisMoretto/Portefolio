@@ -19,13 +19,13 @@ function Experience  (){
                 </div>     
             </div>
             <div className="logo">
-                    <img src="public\assets\redux.svg" alt="" />
-                    <img src="public\assets\react-2.svg" alt="" />
-                    <img src="public\assets\new-php-logo.png" alt="" />
-                    <img src="public\assets\mysql-3.svg" alt="" />
-                    <img src="public\assets\typescript.svg" alt="" />
-                    <img src="public\assets\html-1.svg" alt="" />
-                    <img src="public\assets\css-3.svg" alt="" />
+                    <img src="assets\react-2.svg" alt="" />
+                    <img src="assets\redux.svg" alt="" />
+                    <img src="assets\new-php-logo.png" alt="" />
+                    <img src="assets\mysql-3.svg" alt="" />
+                    <img src="assets\typescript.svg" alt="" />
+                    <img src="assets\html-1.svg" alt="" />
+                    <img src="assets\css-3.svg" alt="" />
                 </div> 
             <div className="skills">
                     <h2>Compétences Acquises</h2>
