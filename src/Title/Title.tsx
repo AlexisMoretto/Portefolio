@@ -29,7 +29,7 @@ function Title ({experienceId}:TitleProps) {
                 </div>
                 </div>
                 <div className='arrowDown'>
-                    <button className='arrowDownButton' onClick={handleScrollToComponent}><img src="assets\down-arrow-svgrepo-com.svg" alt="" /></button>
+                    <button className='arrowDownButton' onClick={handleScrollToComponent}><img src="public\down-arrow-svgrepo-com.svg" alt="" /></button>
                 </div>
             </div>
         </div>
