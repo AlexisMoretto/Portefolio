@@ -109,7 +109,7 @@ function Work() {
           <div ref={associeRef} className='imageShowedAssocie'>
             {isOpen3 && (
               <div className='allCardShowed'>
-                <p><img className='associe' src="public\Associé.png" alt="" /></p>
+                <p><img className='associe' src="\Associé.png" alt="" /></p>
                 <div className='textCard'>
                   <h3>Technologie Utilisé</h3>
                   <ul>
