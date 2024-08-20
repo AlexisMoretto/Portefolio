@@ -19,13 +19,13 @@ function Title ({experienceId}:TitleProps) {
                 <p>DÉVELOPPEUR FULLSTACK</p>
                 <div className='professionalLink'>
                 <div className='linkedin'>
-                    <a href="https://www.linkedin.com/in/alexis-moretto-846503118/"><img src="assets\linkedin-icon.svg" alt="" /></a>
+                    <a href="https://www.linkedin.com/in/alexis-moretto-846503118/"><img src="\linkedin-icon.svg" alt="" /></a>
                 </div>
                 <div className='github'>
-                    <a href="https://github.com/AlexisMoretto"><img src="assets\github-icon-1.svg" alt="" /></a>
+                    <a href="https://github.com/AlexisMoretto"><img src="\github-icon-1.svg" alt="" /></a>
                 </div>
                 <div className='message'>
-                    <a href=""><img src="assets\official-gmail-icon-2020-.svg" alt="" /></a>
+                    <a href=""><img src="\official-gmail-icon-2020-.svg" alt="" /></a>
                 </div>
                 </div>
                 <div className='arrowDown'>
