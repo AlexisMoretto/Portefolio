@@ -1,6 +1,6 @@
 import "./Skills.scss"
 
-function Experience  (){
+function Skills  (){
      return(
         <div id="experience" className="experience">
             <h1>Compétences</h1>
@@ -41,4 +41,4 @@ function Experience  (){
     )
 }
 
-export default Experience
+export default Skills

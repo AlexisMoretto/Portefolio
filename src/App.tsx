@@ -1,9 +1,9 @@
-import Experience from './Skills/Skills'
 import './App.scss'
 import Title from './Title/Title'
 import NavBarre from './NavBarre/NavBarre'
 import Work from './Work/Work'
 import Contact from './Contact/Contact'
+import Skills from './Skills/Skills'
 
 
 function App() {
@@ -15,7 +15,7 @@ function App() {
       <div id="projet" className="section"></div>
       <div id="contact" className="section"></div>
       <Title experienceId={'experience'} />      
-      <Experience />
+      <Skills />
       <Work />
       <Contact />
     </div>

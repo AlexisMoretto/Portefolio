@@ -74,3 +74,77 @@
     padding-right: 2vh;
     text-align:center;
 }
+@media (max-width: 768px) {
+    .workParent h1 {
+        font-size: 4em;
+    }
+    .work {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .exp {
+        flex-direction: column;
+        margin: 2vh;
+    }
+    .textAndButton {
+        flex-direction: column; 
+        text-align: center;
+        padding: 2vh 0;
+    }
+    .orecipe {
+        width: 90vw;
+        height: auto;
+    }
+    .associe {
+        width: 90vw;
+        height: auto;
+    }
+    .allCardShowed {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    .textCard {
+        padding: 1vh;
+        text-align: center;
+    }
+}
+@media (min-width:768px)  and (max-width:1440px){
+    .workParent h1 {
+        font-size: 4em;
+    }
+    .work {
+        flex-direction: column;
+        justify-content: center;
+    }
+    .exp {
+        flex-direction: column;
+        margin: 2vh;
+    }
+    .textAndButton {
+        flex-direction: column; 
+        text-align: center;
+        padding: 2vh 0;
+    }
+    .orecipe {
+        width: 90vw;
+        height: auto;
+    }
+    .associe {
+        width: 90vw;
+        height: auto;
+    }
+    .allCardShowed {
+        flex-direction: column;
+        align-items:center;
+    }
+    .textCard {
+        padding: 1vh;
+        text-align: center;
+    }
+    .meteo {
+        width: 90vw;
+        height: auto;
+    }
+    
+
+}
